@@ -16,7 +16,7 @@ This analysis shows a overhaul of all the columns presend in the dataset to filt
 
 This Analysis/repo  is based on my second data Exploration Project about Nyc taxi trip Analysis. Here goes some information about my Analysis.
 
-In this Analysis we use Python Pandas & Python Matplotlib,Seaborn to analyze and answer business questions about 12 months  of sales data. The data contains  electronics store purchases broken of each Month.
+In this Analysis we use Python Pandas & Python Matplotlib,Seaborn to analyze and answer business questions about 12 months  of trips data. The data contains  nyc trips and the info related to them
 
 Tasks during this Project include:
 
