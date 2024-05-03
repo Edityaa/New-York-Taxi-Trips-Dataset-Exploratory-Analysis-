@@ -48,6 +48,6 @@ For support, email itsaditya2005@gmail.com .
 ![tsd](https://github.com/Edityaa/New-York-Taxi-Trips-Dataset-Exploratory-Analysis-/assets/152017045/9ccd0c00-f04d-4909-85da-5ea5ffce73ed)
 
 
-## 🚀 About Me![Uploading vId.png…]()
+## 🚀 About Me!
 
 I'm a Aditya Kumar a Data Science and Ml Enthusiast And learner...
