@@ -45,7 +45,6 @@ For support, email itsaditya2005@gmail.com .
 ![2](https://github.com/Edityaa/New-York-Taxi-Trips-Dataset-Exploratory-Analysis-/assets/152017045/fed081a6-77b3-4802-a5eb-cf90a3f60f26)
 ![s](https://github.com/Edityaa/New-York-Taxi-Trips-Dataset-Exploratory-Analysis-/assets/152017045/f98f57f2-61bf-4418-83fa-e5fefff0c5ec)
 ![tvsh](https://github.com/Edityaa/New-York-Taxi-Trips-Dataset-Exploratory-Analysis-/assets/152017045/757bb494-4614-4057-9151-da3c86c23137)
-![tsd](https://github.com/Edityaa/New-York-Taxi-Trips-Dataset-Exploratory-Analysis-/assets/152017045/9ccd0c00-f04d-4909-85da-5ea5ffce73ed)
 
 
 ## 🚀 About Me!
